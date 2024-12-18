@@ -1,0 +1,9 @@
+# ninja log v6
+2	829	1734524734220884644	CMakeFiles/sem_mod_2.dir/Deque.cpp.o	975d0c51f1e19f5a
+2	833	1734524734220442521	CMakeFiles/sem_mod_2.dir/Queue.cpp.o	130fca1434decd74
+3	839	1734524734221573724	CMakeFiles/sem_mod_2.dir/Operator.cpp.o	4fe2d89e39921ef
+2	841	1734524734220272813	CMakeFiles/sem_mod_2.dir/Client.cpp.o	c00677c434183a24
+3	849	1734524734221275392	CMakeFiles/sem_mod_2.dir/Stack.cpp.o	fab2f02f72c5e5d4
+1	865	1734524734219557525	CMakeFiles/sem_mod_2.dir/main.cpp.o	d79ad59b92d9c1e7
+832	1256	1734524735050701614	CMakeFiles/sem_mod_2.dir/BankSystem.cpp.o	a956cee719f02e0f
+1256	1373	1734524735474457390	sem_mod_2	afd3eb8ca5086100

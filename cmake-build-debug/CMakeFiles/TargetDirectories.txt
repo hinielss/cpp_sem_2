@@ -1,0 +1,3 @@
+/Users/victorfliginsky/Documents/hse/ЯПЫ/sem_mod_2/cmake-build-debug/CMakeFiles/sem_mod_2.dir
+/Users/victorfliginsky/Documents/hse/ЯПЫ/sem_mod_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/victorfliginsky/Documents/hse/ЯПЫ/sem_mod_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
